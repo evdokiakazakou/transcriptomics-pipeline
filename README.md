@@ -234,8 +234,6 @@ annotated gene regions from the metaseqR2 database.
 
 This pipeline is based on project material from the
 **Proteomics and Functional Genomics** course,
-MSc program "Applied Bioinformatics",
-International Hellenic University (IHU), Thessaloniki.
+MSc program "Applied Bioinformatics", AUTH/IHU, Thessaloniki.
 
-Project designed by **Dr. Panagiotis Moulos**
-(Fleming Institute, moulos@fleming.gr).
+Project designed by **Dr. Panagiotis Moulos**.
